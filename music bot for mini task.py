@@ -69,4 +69,4 @@ async def stop(ctx):
 
 
 print ('Running!!!')
-client.run('OTEwOTI5MTI3NTA5NDYzMDgy.YZZ-3A.4LytKXfkC2Dz6EH-QHORZ_Go24M')
+client.run('token')
